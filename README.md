@@ -10,8 +10,8 @@ The Neighborly App is a comprehensive and user-friendly tool designed to help yo
 ### 1. Perform Search
 **Functionality**: Allows users to search for various points of interest (POIs) within a visible region.<br>
 **UI**: A search bar where users can input their search terms, which is coupled with a list of search categories to refine searches.
-<img width="400" alt="Screenshot 2024-07-04 at 00 25 51" src="https://github.com/YuliaShinkareva/Neighborly/assets/112308390/48110ae3-3ff6-49b4-828e-22bc53fb7d1d">
-<img width="400" alt="Screenshot 2024-07-04 at 00 27 59" src="https://github.com/YuliaShinkareva/Neighborly/assets/112308390/247d5750-b453-4ba7-a59a-1dc807c0cdab">
+<img width="380" alt="Screenshot 2024-07-04 at 00 25 51" src="https://github.com/YuliaShinkareva/Neighborly/assets/112308390/48110ae3-3ff6-49b4-828e-22bc53fb7d1d">
+<img width="380" alt="Screenshot 2024-07-04 at 00 27 59" src="https://github.com/YuliaShinkareva/Neighborly/assets/112308390/247d5750-b453-4ba7-a59a-1dc807c0cdab">
 
 
 ### 2. View Search Results
