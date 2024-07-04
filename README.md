@@ -18,12 +18,14 @@ The Neighborly App is a comprehensive and user-friendly tool designed to help yo
 ### 2. View Search Results
 **Functionality**: Displays a list of places matching the search criteria, sorted by proximity.<br>
 **UI**: A list view showing the name, address, and distance of each search result from the user's current location.
+
 <img width="400" alt="Screenshot 2024-07-04 at 00 28 52" src="https://github.com/YuliaShinkareva/Neighborly/assets/112308390/8ca7ad26-cd49-4541-bcdb-3de027e892ac">
 <img width="400" alt="Screenshot 2024-07-04 at 00 29 11" src="https://github.com/YuliaShinkareva/Neighborly/assets/112308390/2ee87080-9a5b-485c-b501-044fcbd70523">
 
 ### 3. Detailed Place View
 **Functionality**: Provides detailed information about a selected place, including the name, address, and distance from the user. <br>
 **UI**: A detailed card view displaying place information along with action buttons for calling or navigating to the place.
+
 <img width="400" alt="Screenshot 2024-07-04 at 00 33 12" src="https://github.com/YuliaShinkareva/Neighborly/assets/112308390/62f47a82-26e2-450d-82a0-6140bcda2903">
 <img width="400" alt="Screenshot 2024-07-04 at 00 32 10" src="https://github.com/YuliaShinkareva/Neighborly/assets/112308390/139e9227-dfdd-432c-b36c-e444a71b1d8b">
 
@@ -34,11 +36,13 @@ The Neighborly App is a comprehensive and user-friendly tool designed to help yo
 ### 5. Navigate to Place
 **Functionality**: Opens the default maps application with directions to the selected place. <br>
 **UI**: A button labeled "Show Route" within the detailed place view. Clicking this button opens the route in the Maps app.
+
 <img width="400" alt="Screenshot 2024-07-04 at 00 36 16" src="https://github.com/YuliaShinkareva/Neighborly/assets/112308390/d2f5c771-dbbc-4dac-9c86-79a2a256d4b7">
 
 ### 6. Look Around Preview
 **Functionality**: Provides a street view (Look Around) preview of the place if available. <br>
 **UI**: A section within the detailed place view showing the Look Around preview.
+
 <img width="400" alt="Screenshot 2024-07-04 at 00 40 55" src="https://github.com/YuliaShinkareva/Neighborly/assets/112308390/53ae3f4d-a378-4d86-868c-9928fae9064a">
 
 
